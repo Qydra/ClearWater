@@ -30,11 +30,4 @@ public class ClearWater
     	//cancel fog;
     }
     
-    @SubscribeEvent
-    @SideOnly(Side.CLIENT)
-    public void onViewRenderFogDensity(EntityViewRenderEvent.FogDensity event) {
-        if (event.getEntity().isInsideOfMaterial(Material.WATER)) {
-            event.setCanceled(true);
-        }
-    }
 }
