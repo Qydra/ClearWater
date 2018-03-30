@@ -1,0 +1,8 @@
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com\qydra\clearwater\ClearWater.java" md5: 79b2a0b9d1efdb2ea923dec884a1ab48
+endProcessing "com\qydra\clearwater\ClearWater.java"
+
+startProcessing "com\qydra\clearwater\ClearWaterEventHandler.java" md5: 24e61fe54c61a640da713b8fcada5676
+endProcessing "com\qydra\clearwater\ClearWaterEventHandler.java"
+

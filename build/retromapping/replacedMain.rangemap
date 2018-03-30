@@ -1,0 +1,74 @@
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com\qydra\clearwater\ClearWater.java" md5: 79b2a0b9d1efdb2ea923dec884a1ab48
+@|com\qydra\clearwater\ClearWater.java|8|28|com.qydra.clearwater|package|com.qydra.clearwater|(file)
+Class Start: com.qydra.clearwater.ClearWater
+   @|com\qydra\clearwater\ClearWater.java|342|345|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\qydra\clearwater\ClearWater.java|346|351|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\qydra\clearwater\ClearWater.java|354|364|ClearWater|class|com.qydra.clearwater.ClearWater
+   @|com\qydra\clearwater\ClearWater.java|365|370|MODID|field|com.qydra.clearwater.ClearWater|MODID
+   @|com\qydra\clearwater\ClearWater.java|372|376|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\qydra\clearwater\ClearWater.java|379|389|ClearWater|class|com.qydra.clearwater.ClearWater
+   @|com\qydra\clearwater\ClearWater.java|390|394|NAME|field|com.qydra.clearwater.ClearWater|NAME
+   @|com\qydra\clearwater\ClearWater.java|396|403|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\qydra\clearwater\ClearWater.java|406|416|ClearWater|class|com.qydra.clearwater.ClearWater
+   @|com\qydra\clearwater\ClearWater.java|417|424|VERSION|field|com.qydra.clearwater.ClearWater|VERSION
+   @|com\qydra\clearwater\ClearWater.java|439|449|ClearWater|class|com.qydra.clearwater.ClearWater
+   @|com\qydra\clearwater\ClearWater.java|476|482|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|476|482|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|483|488|MODID|field|com.qydra.clearwater.ClearWater|MODID|
+   @|com\qydra\clearwater\ClearWater.java|529|535|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|529|535|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|536|540|NAME|field|com.qydra.clearwater.ClearWater|NAME|
+   @|com\qydra\clearwater\ClearWater.java|582|588|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|582|588|String|class|java.lang.String
+   @|com\qydra\clearwater\ClearWater.java|589|596|VERSION|field|com.qydra.clearwater.ClearWater|VERSION|
+   @|com\qydra\clearwater\ClearWater.java|626|632|Logger|class|org.apache.logging.log4j.Logger
+   @|com\qydra\clearwater\ClearWater.java|626|632|Logger|class|org.apache.logging.log4j.Logger
+   @|com\qydra\clearwater\ClearWater.java|633|639|logger|field|com.qydra.clearwater.ClearWater|logger|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\qydra\clearwater\ClearWater.java|710|715|event|param|com.qydra.clearwater.ClearWater|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\qydra\clearwater\ClearWater.java|647|659|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\qydra\clearwater\ClearWater.java|676|683|preInit|method|com.qydra.clearwater.ClearWater|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\qydra\clearwater\ClearWater.java|684|709|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\qydra\clearwater\ClearWater.java|731|737|logger|field|com.qydra.clearwater.ClearWater|logger
+      @|com\qydra\clearwater\ClearWater.java|740|745|event|param|com.qydra.clearwater.ClearWater|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\qydra\clearwater\ClearWater.java|746|755|getModLog|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getModLog|()Lorg/apache/logging/log4j/Logger;
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\qydra\clearwater\ClearWater.java|828|833|event|param|com.qydra.clearwater.ClearWater|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\qydra\clearwater\ClearWater.java|771|783|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\qydra\clearwater\ClearWater.java|800|804|init|method|com.qydra.clearwater.ClearWater|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\qydra\clearwater\ClearWater.java|805|827|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\qydra\clearwater\ClearWater.java|846|852|Blocks|class|net.minecraft.init.Blocks
+      @|com\qydra\clearwater\ClearWater.java|853|858|WATER|field|net.minecraft.init.Blocks|WATER
+      @|com\qydra\clearwater\ClearWater.java|859|874|setLightOpacity|method|net.minecraft.block.Block|setLightOpacity|(I)Lnet/minecraft/block/Block;
+      @|com\qydra\clearwater\ClearWater.java|884|890|Blocks|class|net.minecraft.init.Blocks
+      @|com\qydra\clearwater\ClearWater.java|891|904|FLOWING_WATER|field|net.minecraft.init.Blocks|FLOWING_WATER
+      @|com\qydra\clearwater\ClearWater.java|905|920|setLightOpacity|method|net.minecraft.block.Block|setLightOpacity|(I)Lnet/minecraft/block/Block;
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : com.qydra.clearwater.ClearWater
+endProcessing "com\qydra\clearwater\ClearWater.java"
+
+startProcessing "com\qydra\clearwater\ClearWaterEventHandler.java" md5: 24e61fe54c61a640da713b8fcada5676
+@|com\qydra\clearwater\ClearWaterEventHandler.java|8|28|com.qydra.clearwater|package|com.qydra.clearwater|(file)
+Class Start: com.qydra.clearwater.ClearWaterEventHandler
+   @|com\qydra\clearwater\ClearWaterEventHandler.java|320|338|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|com\qydra\clearwater\ClearWaterEventHandler.java|352|374|ClearWaterEventHandler|class|com.qydra.clearwater.ClearWaterEventHandler
+   Method Start: onViewRenderFogDensity(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|495|500|event|param|com.qydra.clearwater.ClearWaterEventHandler|onViewRenderFogDensity|(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V|event|0
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|380|394|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|397|405|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|406|410|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|411|417|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|439|461|onViewRenderFogDensity|method|com.qydra.clearwater.ClearWaterEventHandler|onViewRenderFogDensity|(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|462|494|EntityViewRenderEvent.FogDensity|class|net.minecraftforge.client.event.EntityViewRenderEvent.FogDensity
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|513|518|event|param|com.qydra.clearwater.ClearWaterEventHandler|onViewRenderFogDensity|(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V|event|0
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|519|528|getEntity|method|net.minecraftforge.client.event.EntityViewRenderEvent|getEntity|()Lnet/minecraft/entity/Entity;
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|531|540|isInWater|method|net.minecraft.entity.Entity|isInWater|()Z
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|555|560|event|param|com.qydra.clearwater.ClearWaterEventHandler|onViewRenderFogDensity|(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V|event|0
+      @|com\qydra\clearwater\ClearWaterEventHandler.java|561|572|setCanceled|method|net.minecraftforge.fml.common.eventhandler.Event|setCanceled|(Z)V
+   Method End: onViewRenderFogDensity(Lnet/minecraftforge/client/event/EntityViewRenderEvent$FogDensity;)V
+Class End  : com.qydra.clearwater.ClearWaterEventHandler
+endProcessing "com\qydra\clearwater\ClearWaterEventHandler.java"
+
